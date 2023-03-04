@@ -6,8 +6,8 @@ data:extend({
         --item
         type = "item",
         name = "welding-machine-mk1",
-        icon = "__RitnElectronic__/graphics/icons/welding1.png",
-        icon_size = 64, icon_mipmaps = 4,
+        icon = "__RitnElectronic__/graphics/icons/welding-machine.png",
+        icon_size = 95,
         subgroup = "production-machine-electronic",
         order = "a-a",
         place_result = "welding-machine-mk1",
@@ -37,8 +37,8 @@ data:extend({
             --item
             type = "item",
             name = "welding-machine-mk2",
-            icon = "__RitnElectronic__/graphics/icons/welding2.png",
-            icon_size = 64, icon_mipmaps = 4,
+            icon = "__RitnElectronic__/graphics/icons/welding-machine-mk2.png",
+            icon_size = 95,
             subgroup = "production-machine-electronic",
             order = "a-b",
             place_result = "welding-machine-mk2",
