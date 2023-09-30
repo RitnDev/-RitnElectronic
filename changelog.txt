@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.8.11
+Date: 30.09.2023
+  Changes:
+    - Changement de item-group : display-plates.
+    - Changement d'item-group : ritn-teleportation (RitnTeleporter).
+---------------------------------------------------------------------------------------------------
 Version: 0.8.10
 Date: 04.03.2023
   Changes:

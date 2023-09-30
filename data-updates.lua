@@ -11,6 +11,12 @@ RitnProtoItem("creative-mod_energy-absorption"):changeSubgroup("creative-mod_sig
 -- Mod Actif : text plates
 RitnSubgroup("textplates"):changeGroup("intermediate-products", "z-a-b")
 
+-- Mod Actif : display plates
+RitnSubgroup("display-plates"):changeGroup("intermediate-products", "z-b-a")
+
+-- Mod Actif : RitnTeleporter
+RitnSubgroup("ritn-teleportation"):changeGroup("ritn-electronic", "j-a-a")
+
 -- Mod Actif : earlier-teleporters
 if ritnmods.electronic.earlier.teleporters then 
     local teleporter = RitnProtoTech("teleporter")

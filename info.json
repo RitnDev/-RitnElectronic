@@ -1,6 +1,6 @@
 {
   "name": "RitnElectronic",
-  "version": "0.8.10",
+  "version": "0.8.11",
   "title": "RitnElectronic",
   "author": "Ritn",
   "description": "Add technologies electronics and others...",
@@ -16,5 +16,6 @@
     "? Automatic_Train_Painter >= 0.3",
     "? DiscoScience >= 1.0.0",
     "? AfraidOfTheDark",
-    "? textplates"
+    "? textplates",
+    "? DisplayPlates"
 ]}
